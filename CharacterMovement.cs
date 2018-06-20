@@ -12,6 +12,5 @@ public class CharacterMovement : Monobehaviour {
   // Update is called once per frame
   void Update() {
   
-  }
-  
+  } 
 }
